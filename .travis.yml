@@ -11,4 +11,4 @@ script:
   - docker run taram/docker npm run test -- --coverage
 
 
-install: travis_wait mvn install
+
