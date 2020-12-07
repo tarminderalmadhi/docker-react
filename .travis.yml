@@ -11,4 +11,5 @@ script:
   - docker run taram/docker npm run test -- --coverage
 
 
+group: deprecated-2017Q4
 
